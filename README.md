@@ -1,2 +1,2 @@
 # CODSOFT1
-Contains Data Science project - Titanic Survival Prediction 
+Contains Data Science project - Movie rating Prediction 
